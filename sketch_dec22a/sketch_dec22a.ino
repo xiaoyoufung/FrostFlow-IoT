@@ -1,6 +1,6 @@
 #include <DHT.h>
 
-#define DHTPIN 4     // G2 on ESP32
+#define DHTPIN 4     // G4 on ESP32
 #define DHTTYPE DHT22
 
 DHT dht(DHTPIN, DHTTYPE);
